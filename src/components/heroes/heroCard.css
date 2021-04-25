@@ -1,4 +1,4 @@
-.my-card {
+.card {
   border-radius: 5px;
   box-shadow: 0 0 25px rgba(0, 0, 0, 0.1);
   cursor: pointer;
@@ -11,7 +11,7 @@
   position: relative;
 }
 
-.my-card img {
+.card img {
   filter: brightness(70%);
   left: -25%;
   position: relative;
@@ -19,7 +19,7 @@
   transition: all 0.15s linear;
 }
 
-.my-card .profile-name {
+.card .profile-name {
   color: #FFF;
   font-size: 25px;
   font-weight: bold;
@@ -30,7 +30,7 @@
   transition: all 0.15s linear;
 }
 
-.my-card .profile-position {
+.card .profile-position {
   color: rgba(255, 255, 255, 0.596);
   left: 30px;
   position: absolute;
@@ -38,7 +38,7 @@
   transition: all 0.15s linear;
 }
 
-.my-card .profile-overview {
+.card .profile-overview {
   background: linear-gradient(0deg, rgba(0, 0, 0, 0.4) 50%, rgba(255, 255, 0, 0));
   bottom: 0;
   color: #FFF;
@@ -49,30 +49,30 @@
   transition: all 0.15s linear;
 }
 
-.my-card .profile-overview h3 {
+.card .profile-overview h3 {
   font-size: large;
   font-weight: bold;
   padding-left: 25px;
 }
 
-.my-card .profile-overview p {
+.card .profile-overview p {
   color: rgba(255, 255, 255, 0.7);
   padding-left: 25px;
   padding-right: 25px;
 }
 
-.my-card:hover .profile-name {
+.card:hover .profile-name {
   padding-left: 25px;
 }
 
-.my-card:hover .profile-position {
+.card:hover .profile-position {
   left: 40px;
 }
 
-.my-card:hover .profile-overview {
+.card:hover .profile-overview {
   padding-bottom: 25px;
 }
 
-.my-card img:hover {
+.card img:hover {
   transform: scale(1.01);
 }
