@@ -42,6 +42,6 @@ npm run build
 ## 🌟 Author
 **Alejandra Camacho** - [@alexcamachogz](https://github.com/alexcamachogz)
 
-> Este proyecto fue desarrollado en el curso de
-> [React: De cero a experto (Hooks y MERN)](https://www.udemy.com/course/react-cero-experto/)
-> de [Fernando Herrera](https://fernando-herrera.com/)
+> This project was developed in 
+> [Fernando Herrera](https://fernando-herrera.com/)'s
+> [React: De cero a experto (Hooks y MERN)](https://www.udemy.com/course/react-cero-experto/) course.
