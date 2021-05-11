@@ -11,8 +11,6 @@ This app contains public and private routes, to create this I used the localstor
 
 You can see it here → [Heroes](http://heroes.alexcamachogz.com/).
 
-#
-
 ## Table of contents
 
 - [Heroes](#heroes)
